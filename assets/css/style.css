@@ -1,0 +1,67 @@
+.crystals{
+	display: flex;
+	align-items: center;
+
+}
+
+.crystal{
+	border: 1px solid green;
+	height: 200px;
+	width: 200px;
+	border-radius: 4px;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+	transition: box-shadow 1s, transform 2s;
+
+}
+
+#result{
+	border: 1px solid green;
+	height: 50px;
+	width: 200px;
+	border-radius: 4px;
+	background-color: pink;
+
+}
+
+
+#previous{
+	border: 1px solid green;
+	height: 50px;
+	width: 200px;
+	border-radius: 4px;
+	background-color: pink;
+
+}
+
+#win{
+	border: 1px solid green;
+	height: 50px;
+	width: 200px;
+	border-radius: 4px;
+	background-color: pink;
+
+}
+
+#loss{
+	border: 1px solid green;
+	height: 50px;
+	width: 200px;
+	border-radius: 4px;
+	background-color: pink;
+
+}
+
+.gamebox{
+	border: 1px solid green;
+	height: auto;
+	width: 900px;
+	border-radius: 4px;
+	background-color: #e3ffc0;
+
+}
+
+
+img{
+	width: 50px;
+	
+}
